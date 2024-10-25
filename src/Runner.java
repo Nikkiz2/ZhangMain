@@ -8,5 +8,6 @@ public class Runner {
         System.out.println("but its gonna be okay");
         System.out.println("BECAUSE IM A RAT");
         System.out.println("we'll cook the test up");
+        System.out.println(":)");
     }
 }
